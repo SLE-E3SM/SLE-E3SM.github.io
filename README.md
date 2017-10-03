@@ -4,11 +4,11 @@ This is the official DOE ProSPect website, hosted on GitHub.  It's web address i
 
 # Usage
 
-ProSPect members should feel free to directly modify the master branch as they see fit.  One easy way to do this is via [web-based editing and committing](https://help.github.com/articles/editing-files-in-your-repository/).  If error-free, your edits will be automatically incorporated into the website, generally within a few seconds.
+ProSPect members should feel free to directly modify the master branch (which is the branch that is rendered to the webpag) as they see fit.  One easy way to do this is via [web-based editing and committing](https://help.github.com/articles/editing-files-in-your-repository/).  If error-free, your edits will be automatically incorporated into the website, generally within a few seconds.  If you're feeling cautious you can always clone and configure a local rendering environment, too.
 
 # Layout
 
-The site is based on [Jekyll](https://github.com/jekyll/jekyll), which is a Github-supported static site generator.  Main pages are written in [Markdown](https://guides.github.com/features/mastering-markdown/) (.md).  You can use Markdown or HTML/CSS in these files, they're pretty flexible. 
+The site is based on [Jekyll](https://github.com/jekyll/jekyll), which is a Github-supported static site generator.  Main pages are written in [Markdown](https://guides.github.com/features/mastering-markdown/) (.md).  You can use Markdown or HTML/CSS in these files, they're pretty flexible.  Template designs are also open to modification by advanced developers. 
 
 The main configuration file is ```\_config.yml```.
 
