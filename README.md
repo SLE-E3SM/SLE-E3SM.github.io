@@ -19,7 +19,7 @@ Additional pages are added as follows:
 1) Create and commit a new .md file (online or via local clone/create/commit/push).
 2) Add YAML header to top of file (see existing .md files), including a permalink ID for the page.
 3) If you want your page appearing on the top banner, in \_layouts/default.html, being careful about upper/lower cases, add: 
-```<a href="{{ site.baseurl }}/[YOURPAGENAME]">[YOURPAGENAME]</a>.```
+```<a href="{{ site.baseurl }}/[YOURPAGENAME]">[YOURPAGENAME]</a>.``` to the [list](https://github.com/DOE-ProSPect/DOE-ProSPect.github.io/blob/master/_layouts/default.html#L32) of existing pages.
 
 # Contact
 
