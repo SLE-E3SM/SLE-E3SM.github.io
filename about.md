@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The DOE ProSPect project aims to reduce uncertainty in sea level rise predictions arising from marine ice sheet collapse.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We develop combinations of ice sheet and coupled ice-sheet/climate models to address the risk of sea level rise.
