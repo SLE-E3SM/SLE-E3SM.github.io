@@ -10,9 +10,9 @@ ProSPect members should feel free to directly modify the master branch as they s
 
 The site is based on [Jekyll](https://github.com/jekyll/jekyll), which is a Github-supported static site generator.  Main pages are written in [Markdown](https://guides.github.com/features/mastering-markdown/) (.md).  You can use Markdown or HTML/CSS in these files, they're pretty flexible. 
 
-```\_config.yml.```
+The main configuration file is ```\_config.yml```.
 
-The landing page is index.md.
+The landing page is ```index.md```.
 
 Additional pages are added as follows:
 
@@ -20,3 +20,7 @@ Additional pages are added as follows:
 2) Add YAML header to top of file (see existing .md files), including a permalink ID for the page.
 3) If you want your page appearing on the top banner, in \_layouts/default.html, being careful about upper/lower cases, add: 
 ```<a href="{{ site.baseurl }}/[YOURPAGENAME]">[YOURPAGENAME]</a>.```
+
+# Contact
+
+This website was configured by Jeremy Fyke (fyke@lanl.gov).  Comments, direct commits or pull requests welcome!
