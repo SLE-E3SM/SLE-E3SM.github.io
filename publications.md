@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 ---
 
 This is where we will list project publications
