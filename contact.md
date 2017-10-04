@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Stephen Price, PI: sprice@lanl.gov
+Stephen Price, PI: <sprice@lanl.gov>
 
-Esmond Ng, PI: egng@lbnl.gov
+Esmond Ng, PI: <egng@lbnl.gov>
