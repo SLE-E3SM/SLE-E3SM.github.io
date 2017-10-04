@@ -4,7 +4,7 @@ This is the official DOE ProSPect website, hosted on GitHub.  It's web address i
 
 # Usage
 
-ProSPect members should feel free to directly modify the master branch (which is the branch that is rendered to the webpag) as they see fit.  One easy way to do this is via [web-based editing and committing](https://help.github.com/articles/editing-files-in-your-repository/).  If error-free, your edits will be automatically incorporated into the website, generally within a few seconds.  If you're feeling cautious you can always clone and configure a local rendering environment, too.
+ProSPect members should feel free to directly modify the master branch (which is the branch that is rendered to the webpage) as they see fit.  One easy way to do this is via [web-based editing and committing](https://help.github.com/articles/editing-files-in-your-repository/).  If error-free, your edits will be automatically incorporated into the website, generally within a few seconds.  If you're feeling cautious you can always clone and configure a local rendering environment, too.
 
 # Layout
 
