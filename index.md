@@ -8,8 +8,8 @@ The U.S. Department of Energy ([DOE](https://energy.gov/)) has invested in the d
 
 *ProSPect* was launched in 2017 under DOE’s Scientific Discovery through Advanced Computing ([SciDAC](http://www.scidac.gov/)) program, a partnership between DOE’s Advanced Scientific Computing Research ([ASCR](https://science.energy.gov/ascr/)) and Biological and Environmental Research ([BER](https://science.energy.gov/ber/)) Offices. *ProSPect* has three major foci: ice-sheet model physics and coupling, initialization and uncertainty analysis, and ice-sheet model performance on next-generation, high-performance computing (HPC) architectures.
 
-![alt text](https://github.com/DOE-ProSPect/DOE-ProSPect.github.io/blob/master/ais_speed_above_Ross_whole_continent_8000wide_white_clean%20small.png)
-MPAS-FELIX: Add some text here describing this figure.
+![MPASfigure](https://github.com/DOE-ProSPect/DOE-ProSPect.github.io/blob/master/ais_speed_above_Ross_whole_continent_8000wide_white_clean%20small.png)
+Antarctic surface velocities simulated by MPAS-FELIX.
 
-![alt text](https://github.com/DOE-ProSPect/DOE-ProSPect.github.io/blob/master/Martin-CoupledAntarcticMelt.png)
-BISICLES: Add some text here describing this figure.
+![BISICLESfigure](https://github.com/DOE-ProSPect/DOE-ProSPect.github.io/blob/master/Martin-CoupledAntarcticMelt.png)
+Antarctic surface velocities (left colorbar) and sub-ice shelf melt rates (right colorbar), simulated by BISICLES coupled to the POP2x ocean circulation model (POPSICLES). 
