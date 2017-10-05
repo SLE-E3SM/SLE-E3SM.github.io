@@ -4,56 +4,56 @@ title: Participants
 permalink: /participants/
 ---
 
-**Los Alamos National Laboratory**
 
-Stephen Price (PI)
+Stephen Price (PI; LANL)
 
-Xylar Asay-Davis
+Esmond Ng (PI; LBNL)
 
-Jeremy Fyke
+Xylar Asay-Davis (LANL)
 
-Matthew Hoffman
+Jeremy Bassis (UM)
 
-Mark Petersen 
+Katherine Evans (ORNL)
+
+Jeremy Fyke (LANL)
+
+Matthew Hoffman (LANL)
+
+John Jakeman (SNL)
+
+Joseph Kennedy (ORNL)
+
+Dan Martin (LBNL)
+
+Juliane Muller (LBNL)
+
+Mauro Perego (SNL)
+
+Mark Petersen (LANL)
+
+Andrew Salinger (SNL)
+
+Georg Stadler (NYU)
+
+Irina Tezaur (SNL)
+
+Raymond Tuminaro (SNL)
+
+Brian Van Straalen (LBNL)
+
+**Lawrence Berkeley National Laboratory (LBNL)**
+
+**Los Alamos National Laboratory (LANL)**
+
+**Oak Ridge National Laboratory (ORNL)**
+
+**Sandia National Laboratories (SNL)**
+
+**New York University (NYU)**
+
+**University of Michigan (UM)**
 
 
 
-**Lawrence Berekely National Laboratory**
-
-Esmond Ng (PI)
-
-Dan Martin
-
-Juliane Muller
-
-Brian Van Straalen
 
 
-**Oak Ridge National Laboratory**
-
-Katherine Evans
-
-Joseph Kennedy
-
-
-**Sandia National Laboratories**
-
-John Jakeman
-
-Mauro Perego
-
-Andrew Salinger
-
-Irina Tezaur
-
-Raymond Tuminaro
-
-
-**New York University**
-
-Georg Stadler
-
-
-**University of Michigan**
-
-Jeremy Bassis
