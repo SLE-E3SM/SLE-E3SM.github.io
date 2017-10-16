@@ -16,8 +16,13 @@ avatar: https://avatars3.githubusercontent.com/u/32076446?v=4&s=200
 # Flags below are optional
 #
 
+
 # test footer image
 footer-img: "/img/jekyll-logo.png"
+
+# --- Footer options --- #
+author:
+name: Stephen Price
 
 # Includes an icon in the footer for each username you enter
 footer-links:
