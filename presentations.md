@@ -6,7 +6,7 @@ permalink: /presentations/
 
 **[SIAM Conference on Mathematical and Computational Issues in the Geosciences](http://www.siam-gs17.de/) (Erlangen, Germany, Sept. 11-14)**
 
-X. Asay-Davis, [*Numerical methods for ice sheet–ocean coupling in the POPSICLES model*](https://drive.google.com/open?id=0B6Ue2j2To9fQcFFxQTVEUU1penc)
+X. Asay-Davis, [*Numerical methods for ice sheet–ocean coupling in the POPSICLES model*](https://drive.google.com/open?id=0B6Ue2j2To9fQUEF1TFhkaGlHOEE)
 
 K. Evans, [*A robust and extensible toolkit for ice sheet model validation*](https://drive.google.com/open?id=0B6Ue2j2To9fQdXpKbHdIeTZjQ2M)
 
