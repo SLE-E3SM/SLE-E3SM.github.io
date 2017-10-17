@@ -14,6 +14,6 @@ J. Kennedy, *Evaluating the performance of ice sheet models using LIVVkit* (link
 
 D. Martin, *Millennial-scale Vulnerability of the Antarctic Ice Sheet to localized subshelf warm-water forcing* (link here)
 
-S. Price, *Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models* (link here)
+S. Price, *Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models* [link](https://drive.google.com/open?id=0B6Ue2j2To9fQcFFxQTVEUU1penc)
 
 I. Tezaur, *Performance and performance Portability of the Albany/FELIX finite element land-ice solver* (link here)
