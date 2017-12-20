@@ -28,3 +28,5 @@ J. Jakeman, [*Towards probabilistic predictions of future sea level*](https://dr
 M. Hoffman, [*Effects of ice shelf basal melt variability on evolution of Thwaites Glacier*](https://drive.google.com/open?id=1snuh3_KPUaLIM6QzkAC1TiSExvVj--xG)
 
 M. Perego, [*Investigating an implicit thermo-mechanical solver implemented in FELIX*](https://drive.google.com/open?id=1TQoUqgPu_WBeBDtsbfwEjX312APlQ0GT)
+
+D.Martin, [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1-QhOZNQIxDGr5v5S0HJsHNKqIOw_nTCS)
