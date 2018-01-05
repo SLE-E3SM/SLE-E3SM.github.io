@@ -27,7 +27,7 @@ J. Jakeman, [*Towards probabilistic predictions of future sea level*](https://dr
 
 M. Hoffman, [*Effects of ice shelf basal melt variability on evolution of Thwaites Glacier*](https://drive.google.com/open?id=1snuh3_KPUaLIM6QzkAC1TiSExvVj--xG)
 
-J.H. Kennedy, [*Exploring the validity of modeled surface mass balance over Greenland with LIVVkit 2.1*](https://drive.google.com/open?id=14GJaVFqPUUb0NFyXznojmqhmoNC7pTid). (Dynamic [e-lightening poster](https://agu2017fallmeeting-agu.ipostersessions.com/default.aspx?s=9B-7F-9A-E4-22-EF-D8-0E-04-4E-FE-41-9B-37-3C-A2&guestview=true))
+J.H. Kennedy, *Exploring the validity of modeled surface mass balance over Greenland with LIVVkit 2.1*. (Dynamic [e-lightening poster](https://agu2017fallmeeting-agu.ipostersessions.com/default.aspx?s=9B-7F-9A-E4-22-EF-D8-0E-04-4E-FE-41-9B-37-3C-A2&guestview=true))
 
 M. Perego, [*Investigating an implicit thermo-mechanical solver implemented in FELIX*](https://drive.google.com/open?id=1TQoUqgPu_WBeBDtsbfwEjX312APlQ0GT)
 
