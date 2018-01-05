@@ -10,7 +10,7 @@ X. Asay-Davis, [*Numerical methods for ice sheet–ocean coupling in the POPSICL
 
 K. Evans, [*A robust and extensible toolkit for ice sheet model validation*](https://drive.google.com/open?id=0B6Ue2j2To9fQdXpKbHdIeTZjQ2M)
 
-J. Kennedy, [*Evaluating the performance of ice sheet models using LIVVkit*](https://drive.google.com/open?id=0B6Ue2j2To9fQMEFBeXpFRlZ2Vlk)
+J.H. Kennedy, [*Evaluating the performance of ice sheet models using LIVVkit*](https://drive.google.com/open?id=0B6Ue2j2To9fQMEFBeXpFRlZ2Vlk)
 
 D. Martin, [*Millennial-scale Vulnerability of the Antarctic Ice Sheet to localized subshelf warm-water forcing*](https://drive.google.com/open?id=0B6Ue2j2To9fQcFpPeEhtRlIxZVk)
 
@@ -26,6 +26,8 @@ J. Jakeman, [*Towards probabilistic predictions of future sea level*](https://dr
 **[American Geophysical Union 2017 Fall Meeting](https://fallmeeting.agu.org/2017/) (New Orleans, USA, Dec. 11-15)**
 
 M. Hoffman, [*Effects of ice shelf basal melt variability on evolution of Thwaites Glacier*](https://drive.google.com/open?id=1snuh3_KPUaLIM6QzkAC1TiSExvVj--xG)
+
+J.H. Kennedy, [*Exploring the validity of modeled surface mass balance over Greenland with LIVVkit 2.1*](https://drive.google.com/open?id=14GJaVFqPUUb0NFyXznojmqhmoNC7pTid). (Dynamic [e-lightening poster](https://agu2017fallmeeting-agu.ipostersessions.com/default.aspx?s=9B-7F-9A-E4-22-EF-D8-0E-04-4E-FE-41-9B-37-3C-A2&guestview=true))
 
 M. Perego, [*Investigating an implicit thermo-mechanical solver implemented in FELIX*](https://drive.google.com/open?id=1TQoUqgPu_WBeBDtsbfwEjX312APlQ0GT)
 
