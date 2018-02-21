@@ -32,3 +32,8 @@ J.H. Kennedy, *Exploring the validity of modeled surface mass balance over Green
 M. Perego, [*Investigating an implicit thermo-mechanical solver implemented in FELIX*](https://drive.google.com/open?id=1TQoUqgPu_WBeBDtsbfwEjX312APlQ0GT)
 
 D.Martin, [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1-QhOZNQIxDGr5v5S0HJsHNKqIOw_nTCS)
+
+
+**[American Geophysical Union 2018 Ocean Sciences Meeting](https://osm.agu.org/2018/ ) (Portland, OR, USA, Feb. 11-16)**
+
+D. Martin, X. Asay-Davis, [*Sensitivity of Ice-Ocean Coupling to Interactions with Subglacial Hydrology*](https://drive.google.com/open?id=1AgFI3nkEokJXLerWeiIMsMDNxH0j7Ms9)
