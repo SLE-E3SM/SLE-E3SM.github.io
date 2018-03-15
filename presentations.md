@@ -37,3 +37,7 @@ D.Martin, [*Improved Discretization of Grounding Lines and Calving Fronts using 
 **[American Geophysical Union 2018 Ocean Sciences Meeting](https://osm.agu.org/2018/ ) (Portland, OR, USA, Feb. 11-16)**
 
 D. Martin, X. Asay-Davis, [*Sensitivity of Ice-Ocean Coupling to Interactions with Subglacial Hydrology*](https://drive.google.com/open?id=1AgFI3nkEokJXLerWeiIMsMDNxH0j7Ms9)
+
+**[SIAM Conference on Parallel Processing for Scientific Computing 2018](https://www.siam.org/meetings/pp18/) (Tokyo, Japan, March 7-10)**
+
+J. Watkins, [*Performance Portability of Climate Applications within the Albany Finite Element Code Using Kokkos*](https://drive.google.com/open?id=1qq6eCq1jWE4Jf0XTtChoobako8zCRdK7)
