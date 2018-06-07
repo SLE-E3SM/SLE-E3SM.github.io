@@ -48,4 +48,5 @@ D. Martin et al., [*Ice sheet model-dependence of (persistent) ice-cliff formati
 
 **[6th European Seminar on Computing (ESCO)](http://www.esco2018.femhub.com/) (Pilsen, Czech Republic, June 3-8)**
 
+J. Kennedy et al., [*A Look at the Challenges of, and Some Solutions to, Evaluating Next-generation Earth System Models*](https://drive.google.com/open?id=1D9bYHqKBmrh8RbonLcNr1DmFcQ3a0KdI)
 
