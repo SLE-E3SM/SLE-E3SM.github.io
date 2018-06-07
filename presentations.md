@@ -46,7 +46,14 @@ J. Watkins, [*Performance Portability of Climate Applications within the Albany 
 
 D. Martin et al., [*Ice sheet model-dependence of (persistent) ice-cliff formation*](https://drive.google.com/open?id=1y0kjVRbTwA3IYaJE0UwYUQ-l3-WOy7Qv)
 
+**[SIAM Conference on Uncertainty Quantification 2018](https://archive.siam.org/meetings/uq18/) (Garden Grove, CA, April 16-19)**
+
+M. Perego et al., [*Methodologies for Enabling Bayesian Calibration in Land-ice Modeling 
+Towards Probabilistic Projections of Sea-level Change*](https://drive.google.com/open?id=1VOC9nbOagcOVoQzNuUwl3XY2Mjm2d0oS)
+
 **[6th European Seminar on Computing (ESCO)](http://www.esco2018.femhub.com/) (Pilsen, Czech Republic, June 3-8)**
 
 J. Kennedy et al., [*A Look at the Challenges of, and Some Solutions to, Evaluating Next-generation Earth System Models*](https://drive.google.com/open?id=1D9bYHqKBmrh8RbonLcNr1DmFcQ3a0KdI)
+
+M. Perego et al., [*Ice Sheet Initialization and Uncertainty Quantification of Sea­Level Rise*](https://drive.google.com/open?id=1VOC9nbOagcOVoQzNuUwl3XY2Mjm2d0oS)
 
