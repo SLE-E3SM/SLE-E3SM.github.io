@@ -42,8 +42,10 @@ D. Martin, X. Asay-Davis, [*Sensitivity of Ice-Ocean Coupling to Interactions wi
 
 J. Watkins, [*Performance Portability of Climate Applications within the Albany Finite Element Code Using Kokkos*](https://drive.google.com/open?id=1qq6eCq1jWE4Jf0XTtChoobako8zCRdK7)
 
-**[European Geophysical Union 2018 General Assembly](https://www.egu2018.eu/ ) (Vienna, Austria, April 8-14)**
+**[European Geophysical Union 2018 General Assembly](https://www.egu2018.eu/) (Vienna, Austria, April 8-14)**
 
 D. Martin et al., [*Ice sheet model-dependence of (persistent) ice-cliff formation*](https://drive.google.com/open?id=1y0kjVRbTwA3IYaJE0UwYUQ-l3-WOy7Qv)
+
+**[6th European Seminar on Computing (ESCO)](http://www.esco2018.femhub.com/) (Pilsen, Czech Republic, June 3-8)**
 
 
