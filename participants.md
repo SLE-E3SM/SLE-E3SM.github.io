@@ -13,9 +13,9 @@ Xylar Asay-Davis (LANL)
 
 Jeremy Bassis (UM)
 
-Katherine Evans (ORNL)
+Darin Comeau (LANL)
 
-Jeremy Fyke (LANL)
+Katherine Evans (ORNL)
 
 Matthew Hoffman (LANL)
 
