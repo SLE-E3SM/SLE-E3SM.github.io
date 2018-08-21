@@ -57,7 +57,7 @@ J. Kennedy et al., [*A Look at the Challenges of, and Some Solutions to, Evaluat
 
 M. Perego et al., [*Ice Sheet Initialization and Uncertainty Quantification of Sea­Level Rise*](https://drive.google.com/open?id=1W9EY9Zwr2QafowtgL2UWrVsWEPBQdCD9)
 
-**[2018 SciDAC4 PI meeting](https://www.orau.gov/scidac4pi2018/default.htm) (Rocville, Md, July 23-24)**
+**[2018 SciDAC4 PI meeting](https://www.orau.gov/scidac4pi2018/default.htm) (Rockville, Md, July 23-24)**
 
 S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth System Models (ProSPect)*](https://www.orau.gov/scidac4pi2018/presentations/9-BER/01PriceS_BER_ProSPect.pdf)
 
