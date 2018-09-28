@@ -13,6 +13,10 @@ Xylar Asay-Davis (LANL)
 
 Jeremy Bassis (UM)
 
+Carolyn Begeman (LANL)
+
+Luca Bertagna (SNL)
+
 Darin Comeau (LANL)
 
 Katherine Evans (ORNL)
@@ -20,6 +24,8 @@ Katherine Evans (ORNL)
 Matthew Hoffman (LANL)
 
 John Jakeman (SNL)
+
+Sam Kachuck (UM)
 
 Joseph Kennedy (ORNL)
 
@@ -40,6 +46,12 @@ Irina Tezaur (SNL)
 Raymond Tuminaro (SNL)
 
 Brian Van Straalen (LBNL)
+
+Jerry Watkins (SNL)
+
+Morgan Whitcomb (UM)
+
+Tong Zhang (LANL)
 
 **Lawrence Berkeley National Laboratory (LBNL)**
 
