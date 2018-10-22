@@ -17,7 +17,7 @@ A major challenge associated with using ESMs to project sea-level changes is the
 
 **Model Performance on Next-Generation HPC Architectures**
 
-The BISICLES and MPAS-FELIX ice sheet models are being coupled to DOE’s new Energy Exascale Earth System Model (E3SM), which is focused on addressing DOE-relevant earth system science, including understanding the processes and potential impacts related to sea-level change. With a focus on high-resolution, decadal to century timescale simulations using new, computationally expensive models and workflows, E3SM components must be able to leverage new high-performance computing architectures and new coding paradigms. Hence, performance portability of DOE’s new ice sheet models is another priority for ProSPect.  
+The BISICLES and MALI ice sheet models are being coupled to DOE’s new Energy Exascale Earth System Model (E3SM), which is focused on addressing DOE-relevant earth system science, including understanding the processes and potential impacts related to sea-level change. With a focus on high-resolution, decadal to century timescale simulations using new, computationally expensive models and workflows, E3SM components must be able to leverage new high-performance computing architectures and new coding paradigms. Hence, performance portability of DOE’s new ice sheet models is another priority for ProSPect.  
 
 **Synthesis**
 
