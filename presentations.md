@@ -64,3 +64,9 @@ S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth 
 ProSPect project, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models 1: Ice Sheet Model Development and Applications*](https://drive.google.com/open?id=1KBGuig6Ej4fA01pd9-lXq8VI-RxzY8mF)
 
 ProSPect project, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models 2: Ice Sheet Model Optimization, V&V, and UQ*](https://drive.google.com/open?id=1Maxnhj1Eoaa9mmWLbB4oYN5N-pOfjD6r)
+
+**[AGU Fall Meeting 2018](https://fallmeeting.agu.org/2018/) (Washington, DC, December 7-12)**
+
+X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exascale Earth System Model (E3SM)*](missing_link)
+
+D. Martin et al., [*Modeling Marine Ice Cliff Instability: Higher resolution leads to lower impact*](missing_link)
