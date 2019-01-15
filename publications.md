@@ -13,3 +13,5 @@ Goelzer, H., Nowicki, S., Edwards, T., Beckley, M., Abe-Ouchi, A., Aschwanden, A
 Hoffman, M. J., M. Perego, S. F. Price, W. H. Lipscomb, T. Zhang, D. Jacobsen, I. Tezaur, A. G. Salinger, R. Tuminaro, and L. Bertagna. 2018. [MPAS-Albany Land Ice (MALI): a variable-resolution ice sheet model for Earth system modeling using Voronoi grids](https://www.geosci-model-dev.net/11/3747/2018/),*Geosci. Model Dev.*, **11**, 3747–3780, doi:10.5194/gmd-11-3747-2018.
 
 Pattyn, F. et al. 2018. [The Greenland and Antarctic ice sheets under 1.5°C global warming](https://doi.org/10.1038/s41558-018-0305-8), *Nature Climate Change*, doi:10.1038/s41558-018-0305-8.
+
+Martin, D.F., S.L. Cornford, and A.J Payne. 2019, [Millennial‐scale Vulnerability of the Antarctic Ice Sheet to Regional Ice Shelf Collapse](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL081229), *Geophys. Res. Lett.*, **46**. https://doi.org/10.1029/2018GL081229.
