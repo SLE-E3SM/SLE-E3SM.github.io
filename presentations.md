@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-**[SIAM Conference on Mathematical and Computational Issues in the Geosciences](http://www.siam-gs17.de/) (Erlangen, Germany, Sept. 11-14)**
+**[SIAM Conference on Mathematical and Computational Issues in the Geosciences](http://www.siam-gs17.de/) (Erlangen, Germany, Sept. 11-14, 2017)**
 
 X. Asay-Davis, [*Numerical methods for ice sheet–ocean coupling in the POPSICLES model*](https://drive.google.com/open?id=0B6Ue2j2To9fQUEF1TFhkaGlHOEE)
 
@@ -31,12 +31,15 @@ J.H. Kennedy, *Exploring the validity of modeled surface mass balance over Green
 
 M. Perego, [*Investigating an implicit thermo-mechanical solver implemented in FELIX*](https://drive.google.com/open?id=1TQoUqgPu_WBeBDtsbfwEjX312APlQ0GT)
 
-D.Martin, [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1-QhOZNQIxDGr5v5S0HJsHNKqIOw_nTCS)
+D. Martin, [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1-QhOZNQIxDGr5v5S0HJsHNKqIOw_nTCS)
 
+L. Bertagna, [*Sensitivity analysis for the coupling of a subglacial hydrology model with a 3D ice-sheet model*](https://drive.google.com/open?id=18N6y8ylGDhYMpxMRKeOwmcrZ3062HNvN)
 
 **[American Geophysical Union 2018 Ocean Sciences Meeting](https://osm.agu.org/2018/ ) (Portland, OR, USA, Feb. 11-16)**
 
 D. Martin, X. Asay-Davis, [*Sensitivity of Ice-Ocean Coupling to Interactions with Subglacial Hydrology*](https://drive.google.com/open?id=1AgFI3nkEokJXLerWeiIMsMDNxH0j7Ms9)
+
+M. Hoffman, [*Effects of ocean and ice shelf basal melt variability on sea level rise contribution from Thwaites Glacier, Antarctica*](https://drive.google.com/open?id=18N6y8ylGDhYMpxMRKeOwmcrZ3062HNvN)
 
 **[SIAM Conference on Parallel Processing for Scientific Computing 2018](https://www.siam.org/meetings/pp18/) (Tokyo, Japan, March 7-10)**
 
@@ -51,19 +54,29 @@ D. Martin et al., [*Ice sheet model-dependence of (persistent) ice-cliff formati
 M. Perego et al., [*Methodologies for Enabling Bayesian Calibration in Land-ice Modeling 
 Towards Probabilistic Projections of Sea-level Change*](https://drive.google.com/open?id=1VOC9nbOagcOVoQzNuUwl3XY2Mjm2d0oS)
 
-**[6th European Seminar on Computing (ESCO)](http://www.esco2018.femhub.com/) (Pilsen, Czech Republic, June 3-8)**
+**[Rising Coastal Seas on a Warming Earth III](https://nyuad.nyu.edu/en/events/2018/may/rising-coastal-seas-on-a-warming-earth-iii.html) (Abu Dhabi, UAE, May 5-10, 2018)**
+
+X. Asay-Davis et al., [*Analysis and Conclusions from the Idealized ISOMIP+ and MISOMIP1 Projects*](https://drive.google.com/open?id=12qwC61iLwESBz31Tyq7at0XVMYPW8zpy)
+
+**[6th European Seminar on Computing (ESCO)](http://www.esco2018.femhub.com/) (Pilsen, Czech Republic, June 3-8, 2018)**
 
 J. Kennedy et al., [*A Look at the Challenges of, and Some Solutions to, Evaluating Next-generation Earth System Models*](https://drive.google.com/open?id=1D9bYHqKBmrh8RbonLcNr1DmFcQ3a0KdI)
 
 M. Perego et al., [*Ice Sheet Initialization and Uncertainty Quantification of Sea­Level Rise*](https://drive.google.com/open?id=1W9EY9Zwr2QafowtgL2UWrVsWEPBQdCD9)
 
-**[2018 SciDAC4 PI meeting](https://www.orau.gov/scidac4pi2018/default.htm) (Rockville, Md, July 23-24)**
+X. Asay-Davis et al., [*Antarctic Ice shelf-ocean interactions in high-resolution, global simulations using the Energy Exascale Earth System Model (E3SM)*](https://drive.google.com/open?id=133L94q674xrD0A5hzNshpluczTvIWBjH)
+
+**[2018 SciDAC4 PI meeting](https://www.orau.gov/scidac4pi2018/default.htm) (Rockville, Md, July 23-24, 2018)**
 
 S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth System Models (ProSPect)*](https://www.orau.gov/scidac4pi2018/presentations/9-BER/01PriceS_BER_ProSPect.pdf)
 
 ProSPect project, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models 1: Ice Sheet Model Development and Applications*](https://drive.google.com/open?id=1KBGuig6Ej4fA01pd9-lXq8VI-RxzY8mF)
 
 ProSPect project, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models 2: Ice Sheet Model Optimization, V&V, and UQ*](https://drive.google.com/open?id=1Maxnhj1Eoaa9mmWLbB4oYN5N-pOfjD6r)
+
+**[2018 MultiCore 8 Workshop](https://www2.cisl.ucar.edu/events/workshops/multicore-workshop/2018/2018-multicore-8-workshop) (Boulder, Colorado, Sept. 18-19, 2018)**
+
+J. Watkins et al., [*Enabling Performance Portability of the Albany Land Ice solver using Trilinos and Kokkos*](https://drive.google.com/open?id=1X8qzfUu_1D7G7gB5qGi7nKAf1-Lu3BNi)
 
 **[AGU Fall Meeting 2018](https://fallmeeting.agu.org/2018/) (Washington, DC, December 7-12)**
 
@@ -72,3 +85,5 @@ X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exasc
 D. Martin et al., [*Modeling Marine Ice Cliff Instability: Higher resolution leads to lower impact*](https://drive.google.com/open?id=1u_L3iMcyGMcFo1tk71f9PKef3dD4Vygz)
 
 L. Bertagna et al., [*Study of Greenland subglacial hydrology at medium-high resolutions*](https://drive.google.com/open?id=16p2W-DZnfVJxHo5xf-IHhsBvKPtQ7FUt)
+
+K. Evans et al., [*Software for Ice Sheet Model Validation Using Recently Available and Extensible Datasets*](https://drive.google.com/open?id=1Mk3x8ppCAysxYmZ837s021S3DPK5KALf)
