@@ -16,7 +16,7 @@ D. Martin, [*Millennial-scale Vulnerability of the Antarctic Ice Sheet to locali
 
 S. Price, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models*](https://drive.google.com/open?id=0B6Ue2j2To9fQcFFxQTVEUU1penc)
 
-I. Tezaur, [*Performance and performance Portability of the Albany/FELIX finite element land-ice solver*](https://drive.google.com/open?id=1UjBd6Z2ukMV11279H-a6spQF0OxDxwEi)
+I. Tezaur, [*Performance and performance Portability of the Albany/FELIX finite element land-ice solver*](https://drive.google.com/open?id=0B6Ue2j2To9fQV3p0aFpaX2I2ajQ)
 
 **[Forum Math for Industry 2017: responding to the challenges of climate change](http://apcmfi.org/fmfi2017/) (Hawaii, USA, Oct. 23-26)**
 
@@ -65,7 +65,7 @@ M. Perego et al., [*Ice Sheet Initialization and Uncertainty Quantification of S
 
 X. Asay-Davis et al., [*Antarctic Ice shelf-ocean interactions in high-resolution, global simulations using the Energy Exascale Earth System Model (E3SM)*](https://drive.google.com/open?id=133L94q674xrD0A5hzNshpluczTvIWBjH)
 
-I. Tezaur et al., [*Towards Performance-Portability of the Albany Land-Ice Solver to New and Emerging Architectures Using Kokkos*](link)
+I. Tezaur et al., [*Towards Performance-Portability of the Albany Land-Ice Solver to New and Emerging Architectures Using Kokkos*](https://drive.google.com/open?id=1UjBd6Z2ukMV11279H-a6spQF0OxDxwEi)
 
 **[2018 SciDAC4 PI meeting](https://www.orau.gov/scidac4pi2018/default.htm) (Rockville, Md, July 23-24, 2018)**
 
