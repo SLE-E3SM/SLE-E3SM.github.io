@@ -16,12 +16,11 @@ D. Martin, [*Millennial-scale Vulnerability of the Antarctic Ice Sheet to locali
 
 S. Price, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth System Models*](https://drive.google.com/open?id=0B6Ue2j2To9fQcFFxQTVEUU1penc)
 
-I. Tezaur, [*Performance and performance Portability of the Albany/FELIX finite element land-ice solver*](https://drive.google.com/open?id=0B6Ue2j2To9fQV3p0aFpaX2I2ajQ)
+I. Tezaur, [*Performance and performance Portability of the Albany/FELIX finite element land-ice solver*](https://drive.google.com/open?id=1UjBd6Z2ukMV11279H-a6spQF0OxDxwEi)
 
 **[Forum Math for Industry 2017: responding to the challenges of climate change](http://apcmfi.org/fmfi2017/) (Hawaii, USA, Oct. 23-26)**
 
 J. Jakeman, [*Towards probabilistic predictions of future sea level*](https://drive.google.com/open?id=0B6Ue2j2To9fQMXNmSG8zd0p0eEk)
-
 
 **[American Geophysical Union 2017 Fall Meeting](https://fallmeeting.agu.org/2017/) (New Orleans, USA, Dec. 11-15)**
 
