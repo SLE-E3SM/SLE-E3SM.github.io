@@ -66,6 +66,8 @@ M. Perego et al., [*Ice Sheet Initialization and Uncertainty Quantification of S
 
 X. Asay-Davis et al., [*Antarctic Ice shelf-ocean interactions in high-resolution, global simulations using the Energy Exascale Earth System Model (E3SM)*](https://drive.google.com/open?id=133L94q674xrD0A5hzNshpluczTvIWBjH)
 
+I. Tezaur et al., [*Towards Performance-Portability of the Albany Land-Ice Solver to New and Emerging Architectures Using Kokkos*](link)
+
 **[2018 SciDAC4 PI meeting](https://www.orau.gov/scidac4pi2018/default.htm) (Rockville, Md, July 23-24, 2018)**
 
 S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth System Models (ProSPect)*](https://www.orau.gov/scidac4pi2018/presentations/9-BER/01PriceS_BER_ProSPect.pdf)
@@ -87,3 +89,5 @@ D. Martin et al., [*Modeling Marine Ice Cliff Instability: Higher resolution lea
 L. Bertagna et al., [*Study of Greenland subglacial hydrology at medium-high resolutions*](https://drive.google.com/open?id=16p2W-DZnfVJxHo5xf-IHhsBvKPtQ7FUt)
 
 K. Evans et al., [*Software for Ice Sheet Model Validation Using Recently Available and Extensible Datasets*](https://drive.google.com/open?id=1Mk3x8ppCAysxYmZ837s021S3DPK5KALf)
+
+T. Zhang et al., [* Spatial features of ice flux sensitivity at grounding line to basal melt perturbation beneath ice shelf*](https://drive.google.com/open?id=1tVeL1Hm5gJH7E5u5nUqRxSyDGb19ibCJ)
