@@ -71,4 +71,5 @@ X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exasc
 
 D. Martin et al., [*Modeling Marine Ice Cliff Instability: Higher resolution leads to lower impact*](https://drive.google.com/open?id=1u_L3iMcyGMcFo1tk71f9PKef3dD4Vygz)
 
-L. Bertagna et al., [*Study of Greenland subglacial hydrology at medium-high resolutions*] (https://drive.google.com/open?id=133L94q674xrD0A5hzNshpluczTvIWBjH)
+L. Bertagna et al., [*Study of Greenland subglacial hydrology at medium-high resolutions*] 
+(https://drive.google.com/open?id=16p2W-DZnfVJxHo5xf-IHhsBvKPtQ7FUt)
