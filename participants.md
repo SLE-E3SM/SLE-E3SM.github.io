@@ -31,13 +31,13 @@ Joseph Kennedy (ORNL)
 
 Dan Martin (LBNL)
 
-Juliane Muller (LBNL)
-
 Mauro Perego (SNL)
 
 Mark Petersen (LANL)
 
 Andrew Salinger (SNL)
+
+Adam Schneider (UCI)
 
 Georg Stadler (NYU)
 
@@ -45,13 +45,13 @@ Irina Tezaur (SNL)
 
 Raymond Tuminaro (SNL)
 
-Brian Van Straalen (LBNL)
-
 Jerry Watkins (SNL)
 
 Morgan Whitcomb (UM)
 
 Tong Zhang (LANL)
+
+Charlie Zender (UCI)
 
 **Lawrence Berkeley National Laboratory (LBNL)**
 
@@ -62,6 +62,8 @@ Tong Zhang (LANL)
 **Sandia National Laboratories (SNL)**
 
 **New York University (NYU)**
+
+**University of California, Irvine (UCI)**
 
 **University of Michigan (UM)**
 
