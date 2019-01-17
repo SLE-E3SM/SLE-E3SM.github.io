@@ -39,7 +39,7 @@ L. Bertagna, [*Sensitivity analysis for the coupling of a subglacial hydrology m
 
 D. Martin, X. Asay-Davis, [*Sensitivity of Ice-Ocean Coupling to Interactions with Subglacial Hydrology*](https://drive.google.com/open?id=1AgFI3nkEokJXLerWeiIMsMDNxH0j7Ms9)
 
-M. Hoffman, [*Effects of ocean and ice shelf basal melt variability on sea level rise contribution from Thwaites Glacier, Antarctica*](https://drive.google.com/open?id=18N6y8ylGDhYMpxMRKeOwmcrZ3062HNvN)
+M. Hoffman, [*Effects of ocean and ice shelf basal melt variability on sea level rise contribution from Thwaites Glacier, Antarctica*](https://drive.google.com/open?id=1Ttw1S4LPc6toD07kLCuWY3-My8scVdTe)
 
 **[SIAM Conference on Parallel Processing for Scientific Computing 2018](https://www.siam.org/meetings/pp18/) (Tokyo, Japan, March 7-10)**
 
