@@ -90,4 +90,4 @@ L. Bertagna et al., [*Study of Greenland subglacial hydrology at medium-high res
 
 K. Evans et al., [*Software for Ice Sheet Model Validation Using Recently Available and Extensible Datasets*](https://drive.google.com/open?id=1Mk3x8ppCAysxYmZ837s021S3DPK5KALf)
 
-T. Zhang et al., [* Spatial features of ice flux sensitivity at grounding line to basal melt perturbation beneath ice shelf*](https://drive.google.com/open?id=1tVeL1Hm5gJH7E5u5nUqRxSyDGb19ibCJ)
+T. Zhang et al., [*Spatial features of ice flux sensitivity at grounding line to basal melt perturbation beneath ice shelf*](https://drive.google.com/open?id=1tVeL1Hm5gJH7E5u5nUqRxSyDGb19ibCJ)
