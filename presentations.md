@@ -67,6 +67,8 @@ ProSPect project, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth
 
 **[AGU Fall Meeting 2018](https://fallmeeting.agu.org/2018/) (Washington, DC, December 7-12)**
 
-X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exascale Earth System Model (E3SM)*](missing_link)
+X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exascale Earth System Model (E3SM)*](https://drive.google.com/open?id=1Rhlyx1U4wxmgrEW0-Cby6Teveq-hB0xU)
 
-D. Martin et al., [*Modeling Marine Ice Cliff Instability: Higher resolution leads to lower impact*](missing_link)
+D. Martin et al., [*Modeling Marine Ice Cliff Instability: Higher resolution leads to lower impact*](https://drive.google.com/open?id=1u_L3iMcyGMcFo1tk71f9PKef3dD4Vygz)
+
+L. Bertagna et al., [*Study of Greenland subglacial hydrology at medium-high resolutions*] (https://drive.google.com/open?id=133L94q674xrD0A5hzNshpluczTvIWBjH)
