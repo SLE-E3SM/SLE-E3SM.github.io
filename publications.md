@@ -15,3 +15,5 @@ Hoffman, M. J., M. Perego, S. F. Price, W. H. Lipscomb, T. Zhang, D. Jacobsen, I
 Pattyn, F. et al. 2018. [The Greenland and Antarctic ice sheets under 1.5°C global warming](https://doi.org/10.1038/s41558-018-0305-8), *Nature Climate Change*, doi:10.1038/s41558-018-0305-8.
 
 Martin, D.F., S.L. Cornford, and A.J Payne. 2019, [Millennial‐scale Vulnerability of the Antarctic Ice Sheet to Regional Ice Shelf Collapse](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL081229), *Geophys. Res. Lett.*, **46**. https://doi.org/10.1029/2018GL081229.
+
+Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bradley, S. L., Evans, K. J., Fyke, J. G., Kennedy, J. H., Perego, M., Ranken, D. M., Sacks, W. J., Salinger, A. G., Vargo, L. J., and Worley, P. H. 2019. Description and evaluation of the Community Ice Sheet Model (CISM) v2.1, *Geosci. Model Dev.*, **12**, 387-424, https://doi.org/10.5194/gmd-12-387-2019
