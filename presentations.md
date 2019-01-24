@@ -79,6 +79,10 @@ ProSPect project, [*Probabilistic Sea-Level Projections from Ice Sheet and Earth
 
 J. Watkins et al., [*Enabling Performance Portability of the Albany Land Ice solver using Trilinos and Kokkos*](https://drive.google.com/open?id=1X8qzfUu_1D7G7gB5qGi7nKAf1-Lu3BNi)
 
+**[DOE-JPL VVUQ meeting](https://www2.cisl.ucar.edu/events/workshops/multicore-workshop/2018/2018-multicore-8-workshop) (PNNL, Richland, Washington, Oct 9, 2018)**
+
+M. Perego e al., [*Ice Sheet Modeling, Verification, Validation & UQ*](https://drive.google.com/open?id=1piklPN6260bQb4UZ31x0Th6hKorVrpJA)
+
 **[AGU Fall Meeting 2018](https://fallmeeting.agu.org/2018/) (Washington, DC, December 7-12)**
 
 X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exascale Earth System Model (E3SM)*](https://drive.google.com/open?id=1Rhlyx1U4wxmgrEW0-Cby6Teveq-hB0xU)
