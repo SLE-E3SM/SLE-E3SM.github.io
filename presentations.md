@@ -96,3 +96,7 @@ K. Evans et al., [*Software for Ice Sheet Model Validation Using Recently Availa
 T. Zhang et al., [*Spatial features of ice flux sensitivity at grounding line to basal melt perturbation beneath ice shelf*](https://drive.google.com/open?id=1tVeL1Hm5gJH7E5u5nUqRxSyDGb19ibCJ)
 
 M. Whitcomb et al., [*Simulating Pine Island Glacier Extents Under Multiple Forcing Scenarios Using Damage Mechanics*](https://drive.google.com/open?id=1trS2vx_BdI79pb8iS-XU7NYx_ifAX5Ju)
+
+**[European Geophysical Union 2019 General Assembly](https://www.egu2019.eu/) (Vienna, Austria, April 7-12)**
+
+D. Martin et al., [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1MK4MueZfx266PMvS-_q2xZ6AkJmTIN0d)
