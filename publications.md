@@ -16,4 +16,6 @@ Pattyn, F. et al. 2018. [The Greenland and Antarctic ice sheets under 1.5°C glo
 
 Martin, D.F., S.L. Cornford, and A.J Payne. 2019, [Millennial‐scale Vulnerability of the Antarctic Ice Sheet to Regional Ice Shelf Collapse](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL081229), *Geophys. Res. Lett.*, **46**, doi.org/10.1029/2018GL081229. *([see BISICLES on the GRL cover](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.57643))*
 
-Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bradley, S. L., Evans, K. J., Fyke, J. G., Kennedy, J. H., Perego, M., Ranken, D. M., Sacks, W. J., Salinger, A. G., Vargo, L. J., and Worley, P. H. 2019. [Description and evaluation of the Community Ice Sheet Model (CISM) v2.1](https://www.geosci-model-dev.net/12/387/2019/), *Geosci. Model Dev.*, **12**, 387-424, doi.org/10.5194/gmd-12-387-2019
+Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bradley, S. L., Evans, K. J., Fyke, J. G., Kennedy, J. H., Perego, M., Ranken, D. M., Sacks, W. J., Salinger, A. G., Vargo, L. J., and Worley, P. H. 2019. [Description and evaluation of the Community Ice Sheet Model (CISM) v2.1](https://www.geosci-model-dev.net/12/387/2019/), *Geosci. Model Dev.*, **12**, 387-424, doi.org/10.5194/gmd-12-387-2019.
+
+Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi.org/10.5194/tc-13-1441-2019
