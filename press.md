@@ -9,6 +9,9 @@ permalink: /press/
 
 BISICLES was featured on the cover of *Geophysical Research Letters*, [volume 46, no. 3](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.57643).
 
+DOE Office of Science [did a story on ice sheets, our project, and how it fits in with parts of the E3SM project.] (https://www.energy.gov/science/articles/simulating-ice-bottom-world-modeling-antarctic-ice-sheets)
+
+
 ___
 **Outreach**
 
