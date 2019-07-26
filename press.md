@@ -11,6 +11,8 @@ BISICLES was featured on the cover of *Geophysical Research Letters*, [volume 46
 
 DOE Office of Science [did a story on ice sheets, our project, and how it fits in with parts of the E3SM project.](https://www.energy.gov/science/articles/simulating-ice-bottom-world-modeling-antarctic-ice-sheets) 
 
+Congratulations to Irina Tezaur (Sandia Nationial Laboratories), a recipient of a prestigious [PECASE (Presidential Early Career Awards for Scientists and Engineers) award.](https://www.energy.gov/nnsa/articles/11-nnsa-employees-receive-highest-honor-early-career-scientists-and-engineers?fbclid=IwAR1gVTwdoJhEG5MD9bbjvT3KRN6qVVQtL5HSrQr8ds6-wfLH4n5_CHIyzew). Irina's work on the development of MALI under the SciDAC [PISCEES](https://climatemodeling.science.energy.gov/projects/predicting-ice-sheet-and-climate-evolution-extreme-scales-piscees) project is noted in her award citation.    
+
 
 ___
 **Outreach**
