@@ -18,4 +18,14 @@ Martin, D.F., S.L. Cornford, and A.J Payne. 2019, [Millennial‐scale Vulnerabil
 
 Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bradley, S. L., Evans, K. J., Fyke, J. G., Kennedy, J. H., Perego, M., Ranken, D. M., Sacks, W. J., Salinger, A. G., Vargo, L. J., and Worley, P. H. 2019. [Description and evaluation of the Community Ice Sheet Model (CISM) v2.1](https://www.geosci-model-dev.net/12/387/2019/), *Geosci. Model Dev.*, **12**, 387-424, doi.org/10.5194/gmd-12-387-2019.
 
-Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi.org/10.5194/tc-13-1441-2019
+Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi.org/10.5194/tc-13-1441-2019.
+
+Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations. *Proceedings of ACM* (accepted)
+
+Levermann, A. and 34 others. 2019. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam-discuss.net/esd-2019-23/), *Earth System Dynamics* (in review).
+
+Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2019. Vertical processes and resolution impact ice shelf basal melting: a multi-model study. *Ocean Modelling* (in review).
+
+Hoffman, M. J., S. F. Price, X. Asay-Davis, J. G. Fyke, M. Perego. 2019. Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica. *JGR Earth Surf.* (in review).
+
+Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2019. Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier. *Geophys. Res. Lett.* (in review).
