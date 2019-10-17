@@ -18,6 +18,8 @@ Martin, D.F., S.L. Cornford, and A.J Payne. 2019, [Millennial‐scale Vulnerabil
 
 Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bradley, S. L., Evans, K. J., Fyke, J. G., Kennedy, J. H., Perego, M., Ranken, D. M., Sacks, W. J., Salinger, A. G., Vargo, L. J., and Worley, P. H. 2019. [Description and evaluation of the Community Ice Sheet Model (CISM) v2.1](https://www.geosci-model-dev.net/12/387/2019/), *Geosci. Model Dev.*, **12**, 387-424, doi.org/10.5194/gmd-12-387-2019.
 
+Evans, K. J., Kennedy, J. H., Lu, D., Forrester, M. M., Price, S., Fyke, J., Bennet, A., Hoffman, M. J., Tezaur, I., Zender, C. S., and Vizcaíno, M. 2019. [LIVVkit 2.1: Automated and extensible ice sheet model validation](https://www.geosci-model-dev.net/12/1067/2019/), *Geosci. Model Dev.*, **12**, 1067–1086, doi.org/10.5194/gmd-12-1067-2019.
+
 Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi.org/10.5194/tc-13-1441-2019.
 
 Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations. *Proceedings of ACM* (accepted)
