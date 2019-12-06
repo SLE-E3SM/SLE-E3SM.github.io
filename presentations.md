@@ -100,3 +100,8 @@ M. Whitcomb et al., [*Simulating Pine Island Glacier Extents Under Multiple Forc
 **[European Geophysical Union 2019 General Assembly](https://www.egu2019.eu/) (Vienna, Austria, April 7-12)**
 
 D. Martin et al., [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1MK4MueZfx266PMvS-_q2xZ6AkJmTIN0d)
+
+**[AGU Fall Meeting 2019](https://fallmeeting.agu.org/2019/) (San Francisco, CA, December 9-13)**
+
+S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth System Models (ProSPect)*](https://drive.google.com/open?id=1YpJWBDkxVFQCScdhTD9S9_hqhVFBmvEp)
+
