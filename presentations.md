@@ -83,7 +83,7 @@ J. Watkins et al., [*Enabling Performance Portability of the Albany Land Ice sol
 
 M. Perego e al., [*Ice Sheet Modeling, Verification, Validation & UQ*](https://drive.google.com/open?id=1piklPN6260bQb4UZ31x0Th6hKorVrpJA)
 
-**[AGU Fall Meeting 2018](https://fallmeeting.agu.org/2018/) (Washington, DC, December 7-12)**
+**[AGU Fall Meeting 2018](https://fallmeeting.agu.org/2018/) (Washington, DC, December 7-12, 2018)**
 
 X. Asay-Davis et al., [*Toward full ice sheet-ocean coupling in the Energy Exascale Earth System Model (E3SM)*](https://drive.google.com/open?id=1Rhlyx1U4wxmgrEW0-Cby6Teveq-hB0xU)
 
@@ -99,21 +99,48 @@ M. Whitcomb et al., [*Simulating Pine Island Glacier Extents Under Multiple Forc
 
 M. Hoffman et al., [*Impact of evolving subglacial hydrology on marine ice sheet dynamics*](https://drive.google.com/open?id=1skdeZcq0BgduOTNL2gmO34F8YpjjsNAf)
 
-**[SIAM CSE 2019](https://www.siam.org/Conferences/CM/Main/cse19) (Spokane, Washington, Feb. 25 - March 1)**
+**[SIAM CSE 2019](https://www.siam.org/Conferences/CM/Main/cse19) (Spokane, Washington, Feb. 25 - March 1, 2019)**
 
 D. Martin et al., [*Modeling Antarctic Ice Sheet Dynamics using Adaptive Mesh Refinement*](https://drive.google.com/open?id=1XCEQlV8Xn4uF0P596E2E3gxpG4znKtbK)
 
 J. Watkins et al., [*Performance Portability in Albany Land Ice using Kokkos*](https://drive.google.com/open?id=1zskvtG2-3X0VeGxH3RVUErM_X5OZP1EZ)
 
-**[DOE PPP Meeting 2019](https://doep3meeting2019.lbl.gov/) (Denver, Colorado, November 2-4)**
+**[DOE PPP Meeting 2019](https://doep3meeting2019.lbl.gov/) (Denver, Colorado, November 2-4, 2019)**
 
 J. Watkins et al., [*Towards Performance Portability in Albany Land Ice: a robust and scalable land ice solver using Trilinos and Kokkos*](https://drive.google.com/open?id=1yG3gSjTJpDrFhn2a-X_OSXOf_2yBQmmq)
 
-**[European Geophysical Union 2019 General Assembly](https://www.egu2019.eu/) (Vienna, Austria, April 7-12)**
+**[European Geophysical Union 2019 General Assembly](https://www.egu2019.eu/) (Vienna, Austria, April 7-12, 2019)**
 
 D. Martin et al., [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1MK4MueZfx266PMvS-_q2xZ6AkJmTIN0d)
 
-**[AGU Fall Meeting 2019](https://fallmeeting.agu.org/2019/) (San Francisco, CA, December 9-13)**
+**[Coupled Problems 2019](https://congress.cimne.com/coupled2019/frontal/Series.asp) (Sitges, Spain, June 3, 2019)**
+
+M. Perego et al., [*Implicit Thermo-Mechanical Coupling for Ice Sheet Modeling*](https://drive.google.com/open?id=1dTglKltE3ZY1yT2DLT2jV9hgj0BXFt11)
+
+**[SciDAC4 PI meeting 2019](https://www.orau.gov/scidac4pi2019/) (Rockville, MD, July 23-24, 2019)**
+
+S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth System Models (ProSPect)*](https://www.orau.gov/scidac4pi2019/presentations/Wednesday/Price_ProSPect.pdf)
+
+D. Martin et al., [*ProSPect 1: New Model Physics*](https://www.orau.gov/scidac4pi2019/posters/Martin_Probabilistic_Sea-Level_Projections_from_Ice_Sheet_and_Earth_System_Models_1-New_Model_Physics.pdf)
+
+A. Schneider et al., [*ProSPect 2: Ice Sheet and Earth System Model Coupling*](https://www.orau.gov/scidac4pi2019/posters/Schneider_Probabilistic_Sea-Level_Projections_from_Ice_Sheet_and_Earth_System_Models_2-Ice_Sheet_and_Earth_System_Model_Coupling.pdf)
+
+J. Watkins et al., [*ProSPect 3: Performance, Optimization and Uncertainty Quantification*](https://www.orau.gov/scidac4pi2019/posters/Watkins_Probablistic_Sea-Level_Projections_from_Ice_Sheet_and_Earth_System_Models_3-Performance_Optimization_and_Uncertainty_Quantification.pdf)
+
+**[E3SM All-Hands Meeting 2019](https://e3sm.org/about/events/e3sm-conferences/2019-e3sm-fall-meeting/) (Arlington, VA, November 18-21, 2019)**
+
+S. Price et al., [*Efforts Towards Coupled Ice Sheet and Climate Modeling in E3SM*](https://aims.llnl.gov/e3sm-media/2019_Fall_E3SM_All-Hands_Meeting_Talks/SPrice-IceSheetsInE3SM-Nov2019.pptx)
+
+**[AGU Fall Meeting 2019](https://fallmeeting.agu.org/2019/) (San Francisco, CA, December 9-13, 2019)**
 
 S. Price et al., [*Probabilistic Sea Level Projections from Ice Sheet and Earth System Models (ProSPect)*](https://drive.google.com/open?id=1YpJWBDkxVFQCScdhTD9S9_hqhVFBmvEp)
+
+S. Kachuck et al., [*Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier*](https://drive.google.com/open?id=11J7i3tF1REI7SDbxRMUzqO4lWjmbrVwm)
+
+M. Hoffman et al., [*Potential for tipping point in melting beneath Filcher-Ronne Ice Shelf triggered by melt from neighboring ice shelves*](https://drive.google.com/open?id=1B3arj6_P_1x92Pxss7pErfANwmimJrNP)
+
+A. Schneider et al., [*Evaluation of the E3SM snowpack and firn initialization and 20th century simulations*]()
+
+H. Johansen et al., [*High-resolution Treatment of Topography and Grounding Line Dynamics in BISICLES	*](https://drive.google.com/open?id=1FgU1lMuaSD__64ANuN-khaHdujzPSeUy)
+
 
