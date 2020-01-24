@@ -97,6 +97,8 @@ T. Zhang et al., [*Spatial features of ice flux sensitivity at grounding line to
 
 M. Whitcomb et al., [*Simulating Pine Island Glacier Extents Under Multiple Forcing Scenarios Using Damage Mechanics*](https://drive.google.com/open?id=1trS2vx_BdI79pb8iS-XU7NYx_ifAX5Ju)
 
+M. Hoffman et al., [*Impact of evolving subglacial hydrology on marine ice sheet dynamics*](https://drive.google.com/open?id=1skdeZcq0BgduOTNL2gmO34F8YpjjsNAf)
+
 **[European Geophysical Union 2019 General Assembly](https://www.egu2019.eu/) (Vienna, Austria, April 7-12)**
 
 D. Martin et al., [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1MK4MueZfx266PMvS-_q2xZ6AkJmTIN0d)
