@@ -26,8 +26,10 @@ Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. A Paral
 
 Levermann, A. and 34 others. 2019. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam-discuss.net/esd-2019-23/), *Earth System Dynamics* (in review).
 
-Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2019. Vertical processes and resolution impact ice shelf basal melting: a multi-model study. *Ocean Modelling* (in review).
-
 Hoffman, M. J., S. F. Price, X. Asay-Davis, J. G. Fyke, M. Perego. 2019. Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica. *JGR Earth Surf.* https://doi.org/10.1029/2019JF005155.
 
+Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2020. Vertical processes and resolution impact ice shelf basal melting: a multi-model study. *Ocean Modelling* https://doi.org/10.1016/j.ocemod.2020.101569.
+
 Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2019. Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier. *Geophys. Res. Lett.* (in review).
+
+
