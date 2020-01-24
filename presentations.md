@@ -141,6 +141,18 @@ M. Hoffman et al., [*Potential for tipping point in melting beneath Filcher-Ronn
 
 A. Schneider et al., [*Evaluation of the E3SM snowpack and firn initialization and 20th century simulations*]()
 
-H. Johansen et al., [*High-resolution Treatment of Topography and Grounding Line Dynamics in BISICLES	*](https://drive.google.com/open?id=1FgU1lMuaSD__64ANuN-khaHdujzPSeUy)
+H. Johansen et al., [*High-resolution Treatment of Topography and Grounding Line Dynamics in BISICLES*](https://drive.google.com/open?id=1FgU1lMuaSD__64ANuN-khaHdujzPSeUy)
+
+**[BiRS workshop on Mathematical Modeling in Glaciology 2019](https://www.birs.ca/events/2020/5-day-workshops/20w5198) (Banff, AB, Canada, Jan. 13-17, 2020)**
+
+S. Price et al., [*DOE Efforts Towards Ice Sheet & Earth System Modeling: Progress & Challenges*](https://drive.google.com/open?id=1ipOdySFpiVep7JZYPFy1Bs4X3-c3bany)
+
+M. Perego et al., [*Ice Sheet Initialization*]()
+
+X. Asay-Davis et al., [*A menagerie of approaches to ice sheet-ocean coupling, with a slight emphasis on US Department of Energy models*](https://drive.google.com/open?id=1XUGAVobgdyMgrWtQdk0Xy6N-eI1-uzIp)
+
+I. Tezaur et al., [*Trilinos/Kokkos-based strategy towards achieving a performance portable land-ice model*](https://drive.google.com/open?id=1Tx3tPknWpKB00tA3ZjzHehLHxbDG16M8)
+
+
 
 
