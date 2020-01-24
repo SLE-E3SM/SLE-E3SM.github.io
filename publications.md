@@ -36,7 +36,7 @@ Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2020: [Contrasting contr
 
 Nowicki, S., A. Payne, H. Goelzer, H. Seroussi et al. 2020: [Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models](https://www.the-cryosphere-discuss.net/tc-2019-322/), *The Cryosphere Discussions* (in review).
 
-Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo5, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://www.the-cryosphere-discuss.net/tc-2019-277/). *The Cryosphere* (in review).
+Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo5, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://www.the-cryosphere-discuss.net/tc-2019-277/). *The Cryosphere Discussions* (in review).
 
 Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://www.the-cryosphere-discuss.net/tc-2019-324/). *The Cryosphere Discussions* (in review).
 
