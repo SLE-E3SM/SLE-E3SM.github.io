@@ -99,6 +99,16 @@ M. Whitcomb et al., [*Simulating Pine Island Glacier Extents Under Multiple Forc
 
 M. Hoffman et al., [*Impact of evolving subglacial hydrology on marine ice sheet dynamics*](https://drive.google.com/open?id=1skdeZcq0BgduOTNL2gmO34F8YpjjsNAf)
 
+**[SIAM CSE 2019](https://www.siam.org/Conferences/CM/Main/cse19) (Spokane, Washington, Feb. 25 - March 1)**
+
+D. Martin et al., [*Modeling Antarctic Ice Sheet Dynamics using Adaptive Mesh Refinement*](https://drive.google.com/open?id=1XCEQlV8Xn4uF0P596E2E3gxpG4znKtbK)
+
+J. Watkins et al., [*Performance Portability in Albany Land Ice using Kokkos*](https://drive.google.com/open?id=1zskvtG2-3X0VeGxH3RVUErM_X5OZP1EZ)
+
+**[DOE PPP Meeting 2019](https://doep3meeting2019.lbl.gov/) (Denver, Colorado, November 2-4)**
+
+J. Watkins et al., [*Towards Performance Portability in Albany Land Ice: a robust and scalable land ice solver using Trilinos and Kokkos*](https://drive.google.com/open?id=1yG3gSjTJpDrFhn2a-X_OSXOf_2yBQmmq)
+
 **[European Geophysical Union 2019 General Assembly](https://www.egu2019.eu/) (Vienna, Austria, April 7-12)**
 
 D. Martin et al., [*Improved Discretization of Grounding Lines and Calving Fronts using an Embedded-Boundary Approach in BISICLES*](https://drive.google.com/open?id=1MK4MueZfx266PMvS-_q2xZ6AkJmTIN0d)
