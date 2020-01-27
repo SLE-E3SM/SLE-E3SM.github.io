@@ -147,7 +147,7 @@ H. Johansen et al., [*High-resolution Treatment of Topography and Grounding Line
 
 S. Price et al., [*DOE Efforts Towards Ice Sheet & Earth System Modeling: Progress & Challenges*](https://drive.google.com/open?id=1ipOdySFpiVep7JZYPFy1Bs4X3-c3bany)
 
-M. Perego et al., [*Ice Sheet Model Initialization*]()
+M. Perego et al., [*Ice Sheet Initialization*](https://drive.google.com/open?id=1FnY3qem4rphkSG19qnO1E0kClfCmFoRO)
 
 X. Asay-Davis et al., [*A menagerie of approaches to ice sheet-ocean coupling, with a slight emphasis on US Department of Energy models*](https://drive.google.com/open?id=1XUGAVobgdyMgrWtQdk0Xy6N-eI1-uzIp)
 
