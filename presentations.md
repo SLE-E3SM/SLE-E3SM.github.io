@@ -143,7 +143,7 @@ A. Schneider et al., [*Evaluation of the E3SM snowpack and firn initialization a
 
 H. Johansen et al., [*High-resolution Treatment of Topography and Grounding Line Dynamics in BISICLES*](https://drive.google.com/open?id=1FgU1lMuaSD__64ANuN-khaHdujzPSeUy)
 
-K. Evanas et al., [* Evaluating the surface mass balance from E3SM with LIVVkit 3.0*](https://drive.google.com/open?id=1mj29KUJLL4XY5nCHgSKLgd1UB_mFfiN6)
+K. Evanas et al., [*Evaluating the surface mass balance from E3SM with LIVVkit 3.0*](https://drive.google.com/open?id=1mj29KUJLL4XY5nCHgSKLgd1UB_mFfiN6)
 
 **[BiRS workshop on Mathematical Modeling in Glaciology 2019](https://www.birs.ca/events/2020/5-day-workshops/20w5198) (Banff, AB, Canada, Jan. 13-17, 2020)**
 
