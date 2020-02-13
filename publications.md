@@ -49,5 +49,5 @@ Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: 
 Edwards, T. L., S. Nowicki, H. Goelzer, H. Seroussi et al. 2020: [Quantifying uncertainties in the land ice
 contribution to sea level rise this century](). *Nature* (submitted).
 
-Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](). *The Cryosphere Discussions* (submitted).
+Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://www.the-cryosphere-discuss.net/tc-2020-12/). *The Cryosphere Discussions* (submitted).
 
