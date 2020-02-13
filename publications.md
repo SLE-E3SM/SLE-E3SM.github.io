@@ -24,13 +24,15 @@ Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initia
 
 Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations. *Proceedings of ACM* (accepted)
 
-Levermann, A. and 34 others. 2019. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam-discuss.net/esd-2019-23/), *Earth System Dynamics* (in press).
-
 Hoffman, M. J., S. F. Price, X. Asay-Davis, J. G. Fyke, M. Perego. 2019. [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://doi.org/10.1029/2019JF005155). *JGR Earth Surf.* doi:10.1029/2019JF005155.
 
 Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2020. [Vertical processes and resolution impact ice shelf basal melting: a multi-model study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling* (accepted). doi:10.1016/j.ocemod.2020.101569.
 
 Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2019. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier](). *Geophys. Res. Lett.* (in review).
+
+Levermann, A. and 34 others. 2019. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam-discuss.net/esd-2019-23/), *Earth System Dynamics* (in press).
+
+Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](), *Journal of Glaciology* (in review).
 
 Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2020: [Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets](). *Geophys. Res. Lett.* (in review).
 
