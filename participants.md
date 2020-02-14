@@ -21,13 +21,15 @@ Darin Comeau (LANL)
 
 Katherine Evans (ORNL)
 
+Trevor Hillebrand (LANL)
+
 Matthew Hoffman (LANL)
 
 John Jakeman (SNL)
 
 Sam Kachuck (UM)
 
-Joseph Kennedy (ORNL)
+Michael Kelleher (ORNL)
 
 Dan Martin (LBNL)
 
