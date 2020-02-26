@@ -13,6 +13,8 @@ DOE Office of Science [did a story on ice sheets, our project, and how it fits i
 
 Congratulations to Irina Tezaur (Sandia Nationial Laboratories) who is a 2019 [Presidential Early Career Awards for Scientists and Engineers (PECASE)](https://www.energy.gov/nnsa/articles/11-nnsa-employees-receive-highest-honor-early-career-scientists-and-engineers?fbclid=IwAR1gVTwdoJhEG5MD9bbjvT3KRN6qVVQtL5HSrQr8ds6-wfLH4n5_CHIyzew) recipient. Irina's work on the development of MALI under the SciDAC [PISCEES](https://climatemodeling.science.energy.gov/projects/predicting-ice-sheet-and-climate-evolution-extreme-scales-piscees) project is noted in her award citation (see additional links [here](https://www.sandia.gov/~ikalash/_assets/Communicator.html) and [here](https://www.energy.gov/articles/secretary-perry-congratulates-recipients-presidential-early-career-award-scientists-and)).   
 
+A press release for the [ISMIP6 LARMIP paper](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), which both BISICLES and MALI contributed simulations to, can be found [here](https://www.egu.eu/news/605/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk/).  
+
 
 ___
 **Outreach**
