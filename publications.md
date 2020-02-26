@@ -20,13 +20,13 @@ Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bra
 
 Evans, K. J., Kennedy, J. H., Lu, D., Forrester, M. M., Price, S., Fyke, J., Bennet, A., Hoffman, M. J., Tezaur, I., Zender, C. S., and Vizcaíno, M. 2019. [LIVVkit 2.1: Automated and extensible ice sheet model validation](https://www.geosci-model-dev.net/12/1067/2019/), *Geosci. Model Dev.*, **12**, 1067–1086, doi:10.5194/gmd-12-1067-2019.
 
-Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi.org/10.5194/tc-13-1441-2019.
+Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi:10.5194/tc-13-1441-2019.
 
 Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations. *Proceedings of ACM* (accepted)
 
 Hoffman, M. J., S. F. Price, X. Asay-Davis, J. G. Fyke, M. Perego. 2019. [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://doi.org/10.1029/2019JF005155). *JGR Earth Surf.* doi:10.1029/2019JF005155.
 
-Levermann, A. and 34 others. 2020. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), *Earth System Dynamics*
+Levermann, A. and 34 others. 2020. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), *Earth System Dynamics, **11**, 35–76, doi:10.5194/esd-11-35-2020.
 
 Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2020. [Vertical processes and resolution impact ice shelf basal melting: a multi-model study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling* (accepted). doi:10.1016/j.ocemod.2020.101569.
 
