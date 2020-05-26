@@ -30,7 +30,7 @@ Levermann, A. and 34 others. 2020. [Projecting  Antarctica’s  contribution  to
 
 Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2020. [Vertical processes and resolution impact ice shelf basal melting: a multi-model study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling*. doi:10.1016/j.ocemod.2020.101569.
 
-Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2020. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier] (https://doi-org.lanl.idm.oclc.org/10.1029/2019GL086446). *Geophys. Res. Lett.*. doi:10.1029/2019GL086446.
+Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2020. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier](https://doi-org.lanl.idm.oclc.org/10.1029/2019GL086446). *Geophys. Res. Lett.*. doi:10.1029/2019GL086446.
 
 Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](), *Journal of Glaciology* (in review).
 
