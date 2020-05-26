@@ -28,9 +28,9 @@ Hoffman, M. J., S. F. Price, X. Asay-Davis, J. G. Fyke, M. Perego. 2019. [Effect
 
 Levermann, A. and 34 others. 2020. [Projecting  Antarctica’s  contribution  to  future  sea  level  rise  from basal  ice-shelf  melt  using linear  response  functions  of  16 ice  sheet  models (LARMIP-2)](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), *Earth System Dynamics*, **11**, 35–76, doi:10.5194/esd-11-35-2020.
 
-Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2020. [Vertical processes and resolution impact ice shelf basal melting: a multi-model study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling* (accepted). doi:10.1016/j.ocemod.2020.101569.
+Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenzi. 2020. [Vertical processes and resolution impact ice shelf basal melting: a multi-model study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling*. doi:10.1016/j.ocemod.2020.101569.
 
-Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2019. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier](). *Geophys. Res. Lett.* (in review).
+Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2020. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier] (https://doi-org.lanl.idm.oclc.org/10.1029/2019GL086446). *Geophys. Res. Lett.*. doi:10.1029/2019GL086446.
 
 Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](), *Journal of Glaciology* (in review).
 
