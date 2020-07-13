@@ -22,7 +22,7 @@ Evans, K. J., Kennedy, J. H., Lu, D., Forrester, M. M., Price, S., Fyke, J., Ben
 
 Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi:10.5194/tc-13-1441-2019.
 
-Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations. *Proceedings of ACM* (accepted)
+Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. [A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations](https://doi.org/10.1145/3337821.3337841), *Proceedings of the 48th International Conference on Parallel Processing*. doi:10.1145/3337821.3337841.
 
 Hoffman, M. J., S. F. Price, X. Asay-Davis, J. G. Fyke, M. Perego. 2019. [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://doi.org/10.1029/2019JF005155). *JGR Earth Surf.* doi:10.1029/2019JF005155.
 
