@@ -32,19 +32,19 @@ Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenz
 
 Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2020. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier](https://doi-org.lanl.idm.oclc.org/10.1029/2019GL086446). *Geophys. Res. Lett.*. doi:10.1029/2019GL086446.
 
-Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](), *Journal of Glaciology* (in review).
+Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](), *Journal of Glaciology* (accepted).
 
 Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2020: [Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets](). *Geophys. Res. Lett.* (in review).
 
-Nowicki, S., A. Payne, H. Goelzer, H. Seroussi et al. 2020: [Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models](https://www.the-cryosphere-discuss.net/tc-2019-322/), *The Cryosphere Discussions* (in review).
+Nowicki, S., A. Payne, H. Goelzer, H. Seroussi et al. 2020: [Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models](https://doi.org/10.5194/tc-2019-322), *The Cryosphere* (accepted).
 
-Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://www.the-cryosphere-discuss.net/tc-2019-277/). *The Cryosphere Discussions* (in review).
+Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://doi.org/10.5194/tc-2019-277). *The Cryosphere Discussions* (in review).
 
-Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://doi.org/10.5194/tc-2019-324). *The Cryosphere*. doi:10.5194/tc-2019-324.
+Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://doi.org/10.5194/tc-2019-324). *The Cryosphere* (accepted).
 
-Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. Nowicki. 2020. [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](https://www.the-cryosphere-discuss.net/tc-2020-12/). *The Cryosphere Discussions* (in review).
+Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. Nowicki. 2020. [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](https://tc.copernicus.org/preprints/tc-2019-334/). *The Cryosphere Discussions* (in review).
 
-Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: [Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://www.the-cryosphere-discuss.net/tc-2019-326/). *The Cryosphere Discussions* (in review).
+Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: [Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://doi.org/10.5194/tc-2019-326). *The Cryosphere* (accepted).
 
 Edwards, T. L., S. Nowicki, H. Goelzer, H. Seroussi et al. 2020: [Quantifying uncertainties in the land ice
 contribution to sea level rise this century](). *Nature* (submitted).
