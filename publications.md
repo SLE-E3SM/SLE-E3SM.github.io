@@ -40,7 +40,7 @@ Nowicki, S., A. Payne, H. Goelzer, H. Seroussi et al. 2020: [Experimental protoc
 
 Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://www.the-cryosphere-discuss.net/tc-2019-277/). *The Cryosphere Discussions* (in review).
 
-Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://www.the-cryosphere-discuss.net/tc-2019-324/). *The Cryosphere Discussions* (in review).
+Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://doi.org/10.5194/tc-2019-324). *The Cryosphere*. doi:10.5194/tc-2019-324.
 
 Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. Nowicki. 2020. [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](https://www.the-cryosphere-discuss.net/tc-2020-12/). *The Cryosphere Discussions* (in review).
 
