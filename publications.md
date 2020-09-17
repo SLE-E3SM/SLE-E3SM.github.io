@@ -20,7 +20,7 @@ Lipscomb, W. H., Price, S. F., Hoffman, M. J., Leguy, G. R., Bennett, A. R., Bra
 
 Evans, K. J., Kennedy, J. H., Lu, D., Forrester, M. M., Price, S., Fyke, J., Bennet, A., Hoffman, M. J., Tezaur, I., Zender, C. S., and Vizcaíno, M. 2019. [LIVVkit 2.1: Automated and extensible ice sheet model validation](https://www.geosci-model-dev.net/12/1067/2019/), *Geosci. Model Dev.*, **12**, 1067–1086, doi:10.5194/gmd-12-1067-2019.
 
-Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *Geosci. Model Dev.*, **13**, 1441-1471, doi:10.5194/tc-13-1441-2019.
+Seroussi, H. and 38 others. 2019. [initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6](https://www.the-cryosphere.net/13/1441/2019/), *The Cryosphere*, **13**, 1441-1471, doi:10.5194/tc-13-1441-2019.
 
 Bogle, I., K. Devine, M. Perego, S. Rajamanickam, and G. M. Slota. 2019. [A Parallel Graph Algorithm for Detecting Mesh Singularities in Distributed Memory Ice Sheet Simulations](https://doi.org/10.1145/3337821.3337841), *Proceedings of the 48th International Conference on Parallel Processing*. doi:10.1145/3337821.3337841.
 
@@ -36,15 +36,15 @@ Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustain
 
 Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2020: [Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets](). *Geophys. Res. Lett.* (in review).
 
-Nowicki, S. et al. 2020: [Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models](https://tc.copernicus.org/articles/14/2331/2020/), *The Cryosphere* 10.5194/tc-14-2331-2020.
+Nowicki, S. et al. 2020: [Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models](https://tc.copernicus.org/articles/14/2331/2020/), *The Cryosphere*, **14**, 2331–2368, doi:10.5194/tc-14-2331-2020.
 
-Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://tc.copernicus.org/preprints/tc-2019-277/). *The Cryospheres* (accepted).
+Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://tc.copernicus.org/articles/14/3111/2020/). *The Cryospheres*, **14**, 3111-3134, doi:10.5194/tc-14-3111-2020.
 
-Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://doi.org/10.5194/tc-2019-324). *The Cryosphere* (accepted).
+Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://tc.copernicus.org/articles/14/3033/2020/). *The Cryosphere*, **14**, 3033-3070, doi:10.5194/tc-14-3033-2020.
 
 Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. Nowicki. 2020. [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](https://tc.copernicus.org/preprints/tc-2019-334/). *The Cryosphere* (accepted).
 
-Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: [Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://tc.copernicus.org/articles/14/2283/2020). *The Cryosphere* doi:10.5194/tc-14-2283-2020.
+Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: [Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://tc.copernicus.org/articles/14/2283/2020/). *The Cryosphere*, **14**, 2283–2301, doi:10.5194/tc-14-2283-2020.
 
 Edwards, T. L., S. Nowicki, H. Goelzer, H. Seroussi et al. 2020: [Quantifying uncertainties in the land ice
 contribution to sea level rise this century](). *Nature* (submitted).
