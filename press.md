@@ -15,7 +15,7 @@ Congratulations to Irina Tezaur (Sandia Nationial Laboratories) who is a 2019 [P
 
 A press release for the [ISMIP6 LARMIP paper](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), which both BISICLES and MALI contributed simulations to, can be found [here](https://www.egu.eu/news/605/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk/).  
 
-Press releases for the broader ISMIP6 project that ProSPect contributed to in numerous ways can be found here (from [NASA](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds) and [LANL](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds).  
+Press releases for the broader ISMIP6 project that ProSPect contributed to in numerous ways can be found here, from [NASA](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds) and here, from [LANL](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds).  
 
 
 ___
