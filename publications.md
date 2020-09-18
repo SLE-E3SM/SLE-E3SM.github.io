@@ -32,7 +32,7 @@ Gwyther, D. E., K. Kusahara, X. S. Asay-Davis, M. S. Dinniman, B. K. Galton-Fenz
 
 Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2020. [Rapid viscoelastic deformation slows marine ice sheet instability at Pine Island Glacier](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL086446). *Geophys. Res. Lett.*. doi:10.1029/2019GL086446.
 
-Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](), *Journal of Glaciology* (accepted).
+Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](https://www.cambridge.org/core/journals/journal-of-glaciology/article/antarctic-ice-sheet-response-to-sudden-and-sustained-iceshelf-collapse-abumip/C08970BDF95EA737AD941D3690EBB3C5), *Journal of Glaciology*. doi:10.1017/jog.2020.67.
 
 Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2020: [Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets](). *Geophys. Res. Lett.* (in review).
 
