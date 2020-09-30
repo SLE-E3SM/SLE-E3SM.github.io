@@ -51,3 +51,7 @@ contribution to sea level rise this century](). *Nature* (submitted).
 
 Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://www.the-cryosphere-discuss.net/tc-2020-12/). *The Cryosphere* (accepted).
 
+Watkins J., I. Tezaur, and I. Demeshko I. 2020: [A Study on the Performance Portability of the Finite Element Assembly Process Within the Albany Land Ice Solver](https://doi.org/10.1007/978-3-030-30705-9_16). In: van Brummelen H., Corsini A., Perotto S., Rozza G. (eds) *Numerical Methods for Flows. Lecture Notes in Computational Science and Engineering*, **132**, Springer, Cham., doi:10.1007/978-3-030-30705-9_16.
+
+
+
