@@ -6,18 +6,19 @@ permalink: /highlights/
 
 **Highlights**
 
-BISICLES was featured on the cover of *Geophysical Research Letters*, [volume 46, no. 3](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.57643).
+Flyers with more information on the BISICLES and MALI ice sheet models can be found here: [BISICLES](https://e3sm.org/wp-content/uploads/2018/08/ResearchHighlight_BISICLES.pdf), [MALI](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf)
 
-DOE Office of Science [did a story on ice sheets, our project, and how it fits in with parts of the E3SM project.](https://www.energy.gov/science/articles/simulating-ice-bottom-world-modeling-antarctic-ice-sheets) 
+*ProSPect* ice sheet models will ultimately contribute to DOE's Energy Exascale Earth System Model (E3SM). More information can be found at the E3SM [homepage](https://e3sm.org/).
+
+DOE Office of Science [did a story on ice sheets, our project, and how *ProSPect* fits in with the broader E3SM project.](https://www.energy.gov/science/articles/simulating-ice-bottom-world-modeling-antarctic-ice-sheets) 
 
 Congratulations to Irina Tezaur (Sandia Nationial Laboratories) who is a 2019 [Presidential Early Career Awards for Scientists and Engineers (PECASE)](https://www.energy.gov/nnsa/articles/11-nnsa-employees-receive-highest-honor-early-career-scientists-and-engineers?fbclid=IwAR1gVTwdoJhEG5MD9bbjvT3KRN6qVVQtL5HSrQr8ds6-wfLH4n5_CHIyzew) recipient. Irina's work on the development of MALI under the SciDAC [PISCEES](https://climatemodeling.science.energy.gov/projects/predicting-ice-sheet-and-climate-evolution-extreme-scales-piscees) project is noted in her award citation (see additional links [here](https://www.sandia.gov/~ikalash/_assets/Communicator.html) and [here](https://www.energy.gov/articles/secretary-perry-congratulates-recipients-presidential-early-career-award-scientists-and)).   
+
+BISICLES was featured on the cover of *Geophysical Research Letters*, [volume 46, no. 3](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.57643).
 
 A press release for the [ISMIP6 LARMIP paper](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), which both BISICLES and MALI contributed simulations to, can be found [here](https://www.egu.eu/news/605/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk/).  
 
 Press releases for the broader ISMIP6 project that ProSPect contributed to in numerous ways can be found here, from [NASA](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds) and here, from [LANL](https://www.lanl.gov/discover/news-release-archive/2020/September/0917-ice-sheets.php).  
 
-Flyers with more information on the BISICLES and MALI ice sheet models can be found here: [BISICLES](https://e3sm.org/wp-content/uploads/2018/08/ResearchHighlight_BISICLES.pdf), [MALI](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf)
-
 Most of our high-performance computing is done at the National Energy Research Scientific Computing Center [NERSC](https://www.nersc.gov/about/), where our work has been highlighted in [2018](https://www.nersc.gov/assets/Science-Highlights-Presentations/NERSC-Highlights-2018-3-FINAL.pdf), [2019](https://www.nersc.gov/assets/Science-Highlights-Presentations/NERSC-Science-Highlights-R20191016.pdf), and [2020](https://www.nersc.gov/science/science-highlights-presentations/).
 
-*ProSPect* ice sheet models will ultimately contribute to DOE's Energy Exascale Earth System Model (E3SM). More information can be found at the E3SM [homepage](https://e3sm.org/).
