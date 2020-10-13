@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 
-permalink: /press/
+permalink: /highlights/
 ---
 
-**Press**
+**Highlights**
 
 
 BISICLES was featured on the cover of *Geophysical Research Letters*, [volume 46, no. 3](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.57643).
@@ -16,11 +16,6 @@ Congratulations to Irina Tezaur (Sandia Nationial Laboratories) who is a 2019 [P
 A press release for the [ISMIP6 LARMIP paper](https://www.earth-syst-dynam.net/11/35/2020/esd-11-35-2020.pdf), which both BISICLES and MALI contributed simulations to, can be found [here](https://www.egu.eu/news/605/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk/).  
 
 Press releases for the broader ISMIP6 project that ProSPect contributed to in numerous ways can be found here, from [NASA](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds) and here, from [LANL](https://www.lanl.gov/discover/news-release-archive/2020/September/0917-ice-sheets.php).  
-
-
-___
-**Outreach**
-
 
 BISICLES ice sheet model [flyer](https://e3sm.org/wp-content/uploads/2018/08/ResearchHighlight_BISICLES.pdf)
 
