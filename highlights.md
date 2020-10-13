@@ -18,4 +18,6 @@ Press releases for the broader ISMIP6 project that ProSPect contributed to in nu
 
 Flyers with more information on the BISICLES and MALI ice sheet models can be found here: [BISICLES](https://e3sm.org/wp-content/uploads/2018/08/ResearchHighlight_BISICLES.pdf), [MALI](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf)
 
-*ProSPect* ice sheet models will ultimately contribute to DOE's Energy Exascale Earth Systaem Model (E3SM) project. More information can be found at the E3SM [homepage](https://e3sm.org/).
+Most of our high-performance computing is done at the National Energy Research Scientific Computing Center [NERSC](https://www.nersc.gov/about/), where our work has been highlighted in [2018](https://www.nersc.gov/assets/Science-Highlights-Presentations/NERSC-Highlights-2018-3-FINAL.pdf), [2019](https://www.nersc.gov/assets/Science-Highlights-Presentations/NERSC-Science-Highlights-R20191016.pdf), and [2020](https://www.nersc.gov/science/science-highlights-presentations/).
+
+*ProSPect* ice sheet models will ultimately contribute to DOE's Energy Exascale Earth System Model (E3SM). More information can be found at the E3SM [homepage](https://e3sm.org/).
