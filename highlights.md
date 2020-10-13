@@ -6,7 +6,6 @@ permalink: /highlights/
 
 **Highlights**
 
-
 BISICLES was featured on the cover of *Geophysical Research Letters*, [volume 46, no. 3](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.57643).
 
 DOE Office of Science [did a story on ice sheets, our project, and how it fits in with parts of the E3SM project.](https://www.energy.gov/science/articles/simulating-ice-bottom-world-modeling-antarctic-ice-sheets) 
@@ -17,8 +16,6 @@ A press release for the [ISMIP6 LARMIP paper](https://www.earth-syst-dynam.net/1
 
 Press releases for the broader ISMIP6 project that ProSPect contributed to in numerous ways can be found here, from [NASA](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds) and here, from [LANL](https://www.lanl.gov/discover/news-release-archive/2020/September/0917-ice-sheets.php).  
 
-BISICLES ice sheet model [flyer](https://e3sm.org/wp-content/uploads/2018/08/ResearchHighlight_BISICLES.pdf)
+Flyers with more information on the BISICLES and MALI ice sheet models can be found here: [BISICLES](https://e3sm.org/wp-content/uploads/2018/08/ResearchHighlight_BISICLES.pdf), [MALI](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf)
 
-MALI ice sheet model [flyer](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf)
-
-E3SM earth system model [homepage](https://e3sm.org/)
+*ProSPect* ice sheet models will ultimately contribute to DOE's Energy Exascale Earth Systaem Model (E3SM) project. More information can be found at the E3SM [homepage](https://e3sm.org/).
