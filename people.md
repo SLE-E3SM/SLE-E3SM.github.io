@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Participants
-permalink: /participants/
+title: People
+permalink: /people/
 ---
 
 
