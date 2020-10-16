@@ -49,7 +49,7 @@ Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: 
 Edwards, T. L., S. Nowicki, H. Goelzer, H. Seroussi et al. 2020: [Quantifying uncertainties in the land ice
 contribution to sea level rise this century](). *Nature* (submitted).
 
-Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://www.the-cryosphere-discuss.net/tc-2020-12/). *The Cryosphere* (accepted).
+Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://tc.copernicus.org/articles/14/3407/2020/). *The Cryosphere*, **14**, 3407–3424, doi:10.5194/tc-14-3407-2020.
 
 Watkins J., I. Tezaur, and I. Demeshko I. 2020: [A Study on the Performance Portability of the Finite Element Assembly Process Within the Albany Land Ice Solver](https://doi.org/10.1007/978-3-030-30705-9_16). In: van Brummelen H., Corsini A., Perotto S., Rozza G. (eds) *Numerical Methods for Flows. Lecture Notes in Computational Science and Engineering*, **132**, Springer, Cham., doi:10.1007/978-3-030-30705-9_16.
 
