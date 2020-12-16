@@ -20,5 +20,7 @@ A press release for the [ISMIP6 LARMIP paper](https://www.earth-syst-dynam.net/1
 
 Press releases for the broader ISMIP6 project that ProSPect contributed to in numerous ways can be found here, from [NASA](https://www.nasa.gov/feature/goddard/2020/emissions-could-add-15-inches-to-2100-sea-level-rise-nasa-led-study-finds) and here, from [LANL](https://www.lanl.gov/discover/news-release-archive/2020/September/0917-ice-sheets.php).  
 
+In collaboration with the [E3SM Cryosphere Simulation Campaign](https://e3sm.org/research/cryosphere-ocean/) and with support from DOE's Data Management Program we worked with members of SciDAC's [RAPIDS institute](https://rapids.lbl.gov/) on a number of [scientific visualizations](https://e3sm.org/scientific-visualization-of-e3sms-cryosphere-campaign-simulations/) exploring ice sheet and ocean interactions in the Earth system. This work culminated in a finalist entry to the 2020 Supercomuting Scientific Visualization competition.  
+
 Most of our high-performance computing is done at the National Energy Research Scientific Computing Center [NERSC](https://www.nersc.gov/about/), where our work has been highlighted in [2018](https://www.nersc.gov/assets/Science-Highlights-Presentations/NERSC-Highlights-2018-3-FINAL.pdf), [2019](https://www.nersc.gov/assets/Science-Highlights-Presentations/NERSC-Science-Highlights-R20191016.pdf), and [2020](https://www.nersc.gov/science/science-highlights-presentations/).
 
