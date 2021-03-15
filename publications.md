@@ -40,14 +40,13 @@ Nowicki, S. et al. 2020: [Experimental protocol for sea level projections from I
 
 Jourdain, N. C., X. Asay-Davis, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki. 2020. [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](https://tc.copernicus.org/articles/14/3111/2020/). *The Cryospheres*, **14**, 3111-3134, doi:10.5194/tc-14-3111-2020.
 
-Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer et al. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://tc.copernicus.org/articles/14/3033/2020/). *The Cryosphere*, **14**, 3033-3070, doi:10.5194/tc-14-3033-2020.
+Seroussi, H. and 46 others. 2020. [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century](https://tc.copernicus.org/articles/14/3033/2020/). *The Cryosphere*, **14**, 3033-3070, doi:10.5194/tc-14-3033-2020.
 
 Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. Nowicki. 2020. [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](https://tc.copernicus.org/preprints/tc-2019-334/). *The Cryosphere* (accepted).
 
-Cornford, S. L., H. Seroussi, X. S. Asay-Davis3, G. H. Gudmundsson et al. 2020: [Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://tc.copernicus.org/articles/14/2283/2020/). *The Cryosphere*, **14**, 2283–2301, doi:10.5194/tc-14-2283-2020.
+Cornford, S. L. and 21 others. 2020: [Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://tc.copernicus.org/articles/14/2283/2020/). *The Cryosphere*, **14**, 2283–2301, doi:10.5194/tc-14-2283-2020.
 
-Edwards, T. L., S. Nowicki, H. Goelzer, H. Seroussi et al. 2020: [Quantifying uncertainties in the land ice
-contribution to sea level rise this century](). *Nature* (submitted).
+Edwards, T. L. and 82 others. 2021: [Projected land ice contributions to 21st century sea level rise](). *Nature* (in press).
 
 Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://tc.copernicus.org/articles/14/3407/2020/). *The Cryosphere*, **14**, 3407–3424, doi:10.5194/tc-14-3407-2020.
 
