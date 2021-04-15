@@ -34,7 +34,7 @@ Kachuck, S.B., D.F. Martin, J.N. Bassis, and S.F. Price. 2020. [Rapid viscoelast
 
 Sun, S. and 29 others. 2020. [Antarctic ice sheet response to sudden and sustained ice shelf collapse (ABUMIP)](https://www.cambridge.org/core/journals/journal-of-glaciology/article/antarctic-ice-sheet-response-to-sudden-and-sustained-iceshelf-collapse-abumip/C08970BDF95EA737AD941D3690EBB3C5), *Journal of Glaciology*. doi:10.1017/jog.2020.67.
 
-Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2020: [Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets](). *Geophys. Res. Lett.* (in review).
+Nowicki, S. A. J. Payne, A. Abe-Ouchi, C. Agosta et al. 2021: [Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets](). *Geophys. Res. Lett.* (accepted).
 
 Nowicki, S. et al. 2020: [Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models](https://tc.copernicus.org/articles/14/2331/2020/), *The Cryosphere*, **14**, 2331–2368, doi:10.5194/tc-14-2331-2020.
 
