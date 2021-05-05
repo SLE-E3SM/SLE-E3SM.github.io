@@ -46,7 +46,7 @@ Cornford, S. L. and 21 others. 2020: [Results of the third Marine Ice Sheet Mode
 
 Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. Nowicki. 2020. [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](https://doi.org/10.5194/tc-15-633-2021). *The Cryosphere*, **15**, 633-661, doi:10.5194/tc-15-633-2021.
 
-Edwards, T. L. and 82 others. 2021: [Projected land ice contributions to 21st century sea level rise](). *Nature* (in press).
+Edwards, T. L. and 82 others. 2021: [Projected land ice contributions to 21st century sea level rise](https://www.nature.com/articles/s41586-021-03302-y). *Nature*, **593**, doi:10.1038/s41586-021-03302-y.
 
 Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://tc.copernicus.org/articles/14/3407/2020/). *The Cryosphere*, **14**, 3407–3424, doi:10.5194/tc-14-3407-2020.
 
