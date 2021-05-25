@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /News/
+permalink: /news/
 ---
 
 **News & Highlights**
