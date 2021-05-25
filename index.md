@@ -2,17 +2,17 @@
 layout: default
 ---
 
-Changes to the Greenland and Antarctic ice sheet over recent decades have contributed to sea-level rise at an accelerating rate and present the largest potential for future changes in sea-level. Accurate sea-level projections require simulations of ice sheet evolution using next-generation ice sheet models coupled to Earth-System Models (ESMs), but current limitations prohibit such projections. 
+Sea level change will be the most fundamental factor driving coastal change along the U.S. – and global – coastline in the coming decades and centuries, with profound disruption and displacement of infrastructure and communities. However, sea level does not change uniformly, due to coupled interactions between the ocean, cryosphere, and solid earth. Regional sea level rise can be significantly larger or smaller (by 50% or more) than the global average, with the U.S. coast heavily impacted by regional variations.
 
-The U.S. Department of Energy ([DOE](https://energy.gov/)) has invested in the development of advanced ice sheet models (BISICLES and MALI) that place increased resolution in regions experiencing the largest and most rapid changes. Building from these investments, the multi-institutional  *ProSPect* project aims to remove current deficiencies in order to allow for probabilistic projections of sea-level change using DOE ice sheet models coupled to the new [Energy Exascale Earth System Model (E3SM)](https://climatemodeling.science.energy.gov/projects/energy-exascale-earth-system-model). 
+Current climate models do not simulate sea level explicitly but calculate implied sea level changes offline based on 1) diagnosing the ocean volume change that corresponds to changes in ocean heat content (steric component) and 2) projections of mass input from melting glaciers and ice sheets from external glacier and ice sheet models (barystatic or eustatic component).
 
-*ProSPect* was launched in 2017 under DOE’s Scientific Discovery through Advanced Computing ([SciDAC](http://www.scidac.gov/)) program, a partnership between DOE’s Advanced Scientific Computing Research ([ASCR](https://science.energy.gov/ascr/)) and Biological and Environmental Research ([BER](https://science.energy.gov/ber/)) Offices. *ProSPect* has three major foci: ice-sheet model physics and coupling, initialization and uncertainty analysis, and ice-sheet model performance on next-generation, high-performance computing (HPC) architectures.
+The SLE-E3SM project aims to fill this gap by adding explicit representation of regional sea level within the US Department of Energy's ([DOE](https://energy.gov/)) Energy Exascale Earth System Model ([E3SM](https://e3sm.org)).  This will provide a unique tool for projecting future coastal imapcts of climate change.  The Sea-Level-Enabled E3SM will also be used to investigate the accuracy of existing sea level projection methods that rely on adding disparate, non-interacting contributors to sea level.  The SLE-E3SM project is funded by the [Earth and Environmental System Modeling](https://climatemodeling.science.energy.gov/) program area of the Biological and Environmental Research program ([BER](https://science.energy.gov/ber/)) in the DOE's [Office of Science](https://www.energy.gov/science/office-science).
 
-![abumipMali](/images/MALI-ABUMIP-200yrs.png)
-*Antarctic ice sheet geometry and surface speed (color) 200 yrs after removal of all floating ice shelves (ABUMIP experiment) simulated by MALI (**above**) and BISICLES (**below**).*
+The SLE-E3SM project builds on previous DOE investments in Earth system modeling ([E3SM](https://e3sm.org)) and ice-sheet model development ([ProSPect](https://doe-prospect.github.io/)).
 
-![abumipBike](/images/BIKE-ABUMIP-200yrs.png)
 
-![abumipSLR](/images/ABUMIP_SLR_MALI_BISICLES-1.png)
 
-**Above:** *Cumulative eustatic sea-level equivalent (mm) from MALI (red) and BISICLES (blue) over 500 years, following the removal of all floating ice shelves (ABUMIP experiment).* 
+![icebergs](/images/icebergs.png)
+
+*Icebergs in Disko Bay, Greenland*
+

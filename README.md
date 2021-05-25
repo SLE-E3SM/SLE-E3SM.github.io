@@ -1,10 +1,10 @@
 # Overview
 
-This is the official DOE ProSPect website, hosted on GitHub.  It's web address is [https://doe-prospect.github.io/](https://doe-prospect.github.io/).
+This is the official website for the DOE project Creating a Sea-Level-Enabled E3SM.  It's web address is [https://sle-e3sm.github.io/](https://sle-e3sm.github.io/).
 
 # Usage
 
-ProSPect members should feel free to directly modify the master branch (which is the branch that is rendered to the webpage) as they see fit.  One easy way to do this is via [web-based editing and committing](https://help.github.com/articles/editing-files-in-your-repository/).  If error-free, your edits will be automatically incorporated into the website, generally within a few seconds.  If you're feeling cautious you can always clone and configure a local rendering environment, too.
+Project members should feel free to directly modify the master branch (which is the branch that is rendered to the webpage) as they see fit.  One easy way to do this is via [web-based editing and committing](https://help.github.com/articles/editing-files-in-your-repository/).  If error-free, your edits will be automatically incorporated into the website, generally within a few seconds.  If you're feeling cautious you can always clone and configure a local rendering environment, too.
 
 # Layout
 
@@ -23,5 +23,5 @@ Additional pages are added as follows:
 
 # Contact
 
-This website was configured by Jeremy Fyke (fyke@lanl.gov).  Comments, questions, direct commits or pull requests welcome!
+Modified from the ProSPect page configured by Jeremy Fyke.
 
